@@ -42,10 +42,6 @@ let walkPos = null;
 let walkNormal = null;
 
 let closePosition = null;
-let tagGunDelay = 0.0;
-let idGunDelay = 0.0;
-let splashDelay = 0.0;
-let lagGunDelay = 0.0;
 
 let lastTime = 0.0;
 let oldSlide = null;
